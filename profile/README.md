@@ -1,113 +1,103 @@
-# 🎓 Nuniversity — Learn, Code, and Grow
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuniversity/.github/main/assets/hero-dark.svg">
+    <img src="https://raw.githubusercontent.com/nuniversity/.github/main/assets/hero-light.svg" alt="Nuniversity — interactive learning platform" width="100%">
+  </picture>
 
-**A non-profit educational platform: interactive courses, tools, games and exam practice — free for everyone, in English, Portuguese and Spanish.**
+  # Nuniversity
 
-> *"To make transformational education universally accessible."*
+  **Practice-first digital learning — free, in English, Portuguese and Spanish.**
 
-> **🇧🇷** Aprenda tecnologia com cursos interativos, simulados e ferramentas — gratuito, em português.
-> **🇪🇸** Aprende tecnología con cursos interactivos, simulacros y herramientas — gratuito, en español.
+  *Courses · mock exams · interactive tools · educational games · focus-friendly extras*
 
-[![Website](https://img.shields.io/badge/🌐_site-nuniversity.pages.dev-3b82f6)](https://nuniversity.pages.dev/en)
-[![YouTube](https://img.shields.io/badge/▶_YouTube-@nuniversity-EA3323)](https://www.youtube.com/@nuniversity)
-[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2)](https://www.linkedin.com/company/nuniversity/)
-[![Instagram](https://img.shields.io/badge/📸-@nuniversityedu-C13584)](https://www.instagram.com/nuniversityedu/)
-[![Email](https://img.shields.io/badge/✉️-nuniversity.npo@gmail.com-64748b)](mailto:nuniversity.npo@gmail.com)
+  [🌐 **Start learning**](https://nuniversity.pages.dev/en) · [🎯 Mock exams](https://nuniversity.pages.dev/en/quizzes/) · [🛠 Tools](https://nuniversity.pages.dev/en/tools/) · [🤝 Partnerships](https://nuniversity.pages.dev/en/partners/)
+
+  [![YouTube](https://img.shields.io/badge/YouTube-@nuniversity-EA3323)](https://www.youtube.com/@nuniversity)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-company-0A66C2)](https://www.linkedin.com/company/nuniversity/)
+  [![Instagram](https://img.shields.io/badge/Instagram-@nuniversityedu-C13584)](https://www.instagram.com/nuniversityedu/)
+  [![Email](https://img.shields.io/badge/nuniversity.npo@gmail.com-say_hi-64748b)](mailto:nuniversity.npo@gmail.com)
+
+  <sub>🇧🇷 Português: aprenda tecnologia com cursos, simulados e jogos — gratuito · 🇪🇸 Español: cursos, simulacros y juegos — gratuito</sub>
+</div>
 
 ---
 
-## 📣 The platform, in numbers
+## 🎁 What is Nuniversity?
 
-*As of November 2026 — refreshed with each content release.*
+A non-profit learning platform where everything is designed so you **learn by doing** — reading is never enough:
 
-![courses](https://img.shields.io/badge/courses-49-3b82f6?style=flat)
-![lessons](https://img.shields.io/badge/lessons-1%2C300%2B-8b5cf6?style=flat)
-![languages](https://img.shields.io/badge/languages_3-EN%20·%20PT%20·%20ES-0ea5e9?style=flat)
-![exam questions](https://img.shields.io/badge/exam_questions-1%2C658-16a34a?style=flat)
-![tools](https://img.shields.io/badge/interactive_tools-10-f59e0b?style=flat)
-![games](https://img.shields.io/badge/educational_games-7-ec4899?style=flat)
-![vocabulary](https://img.shields.io/badge/vocab_decks-5_·_2%2C700%2B_items-14b8a6?style=flat)
-![ads](https://img.shields.io/badge/ads-0-f87171?style=flat)
-![trackers](https://img.shields.io/badge/trackers-0-22c55e?style=flat)
+![interactive lessons](https://img.shields.io/badge/lessons_1%2C300%2B-interactive-3b82f6)
+![mock exam questions](https://img.shields.io/badge/practice_questions-1%2C658-16a34a)
+![vocabulary items](https://img.shields.io/badge/vocab_items-2%2C700%2B-14b8a6)
+![languages](https://img.shields.io/badge/available_in-EN_·_PT_·_ES-0ea5e9)
+![cost](https://img.shields.io/badge/price-free_forever-c026d3)
+![accounts](https://img.shields.io/badge/signup-not_required-f59e0b)
 
-## 📦 What's inside
+## 📚 What can you learn?
 
-| | Feature | What you get | Jump in |
-|---|---|---|---|
-| 🎯 | **Certification prep** | Full courses + mock exams with 1,658 curated questions — AWS AI Practitioner (AIF‑C01), AWS Cloud Practitioner (CLF‑C02), AWS Data Engineer (DEA‑C01), SnowPro® Core (COF‑C03) | [Take a mock exam](https://nuniversity.pages.dev/en/quizzes/) |
-| 🛠 | **Interactive tools** | Eisenhower & SWOT matrices, LLM Prompt Builder, Regex Tester (ReDoS‑isolated), Pomodoro, Flashcard Maker and more | [Open the toolbox](https://nuniversity.pages.dev/en/tools/) |
-| 🎮 | **Learning games** | Typing, logic, math, physics, chemistry and conversation — practice without feeling like practice | [Play](https://nuniversity.pages.dev/en/games/) |
-| 🗣 | **Languages** | English, Spanish and French courses for Portuguese speakers + 5 vocabulary decks (2,700+ items) | [Learn a language](https://nuniversity.pages.dev/en/languages/) |
-| 🧭 | **Roadmaps** | Guided paths: Agentic AI development, Software Engineering fundamentals, Python developer | [Follow a roadmap](https://nuniversity.pages.dev/en/roadmaps/) |
-| 🧠 | **Mastery engine** | FSRS spaced repetition + certificate scoring — your progress stays **in your browser**, no account required | [See certificates](https://nuniversity.pages.dev/en/quizzes/certificates/) |
+| | Area | What you'll actually do | Topics |
+|:--|:--|:--|:--|
+| ☁️ | **Cloud certifications** | Sit full mock exams with 1,658 curated questions and earn scored certificates | AWS AI Practitioner (AIF‑C01) · AWS Cloud Practitioner (CLF‑C02) · AWS Data Engineer (DEA‑C01) · SnowPro® Core (COF‑C03) |
+| 🤖 | **AI & agents** | Build agent-style thinking step by step: tools, memory, guardrails, prompt craft | LangGraph · CrewAI · prompt engineering · agent memory & observability |
+| 💻 | **Programming & software craft** | Code along lessons and turn theory into habit | Python · Rust · SQL · Spark · Clean Code & Architecture · SOLID · TDD · algorithms |
+| 📊 | **Data engineering** | Model, move and transform data on real platform patterns | AWS data platforms · Databricks · dbt + Redshift · lakehouse · multi-cloud |
+| 🗣️ | **Languages** | Practice vocabulary the smart way — the review schedule adapts to you | English · Spanish · French (for Portuguese speakers) · 2,700+ items |
+| 🧭 | **Guided paths** | Follow a curated roadmap instead of wandering | Agentic AI development · software engineering foundations · Python developer |
 
-Everything above ships per module in the ecosystem and works in `/en/`, `/pt/` and `/es/` — [choose your language](https://nuniversity.pages.dev/en/).
+[Browse the full course catalog →](https://nuniversity.pages.dev/en/courses/)
 
-## ⚙️ How it's built
+## 🕹 How learning feels here
 
-```mermaid
-flowchart LR
-    A["📝 Content<br/>Markdown + JSON<br/>per locale"] --> B{"🚦 Quality gates<br/>pytest validators · lint<br/>CSP verify · supply-chain audit"}
-    B --> C["📦 Static export<br/>Next.js 15 · App Router<br/>~1,700 pre-rendered pages"]
-    C --> D["☁️ CDN<br/>Cloudflare Pages<br/>free tier, unlimited bandwidth"]
-    D --> E(("🌍 Learner<br/>no account,<br/>no install"))
-```
+| | Experience | Why it works | Go |
+|:--|:--|:--|:--|
+| 🧪 | **Interactive lessons** | Exercises, simulations and check-yourself moments inside every lesson | [Open a course](https://nuniversity.pages.dev/en/courses/) |
+| 🎯 | **Mock exams + certificates** | Timed practice, instant scoring, downloadable certificates | [Try an exam](https://nuniversity.pages.dev/en/quizzes/) |
+| 🧠 | **Smart review** | The spaced-repetition engine reminds you *just before* you'd forget | [See your progress](https://nuniversity.pages.dev/en/quizzes/certificates/) |
+| 🎮 | **Educational games** | Typing races, logic, math, chemistry — practice disguised as fun | [Play](https://nuniversity.pages.dev/en/games/) |
+| 🛠 | **Real productivity tools** | Eisenhower & SWOT matrices, LLM Prompt Builder, Regex Tester, Pomodoro — ready to use | [Open the toolbox](https://nuniversity.pages.dev/en/tools/) |
+| 🗣️ | **Language players** | Vocabulary, flashcards and translation practice | [Learn a language](https://nuniversity.pages.dev/en/languages/) |
 
-**Engineering choices we're proud of:**
+> [!TIP]
+> **Pick your best first step:**
+> 🎯 *Studying for a certification?* → a [mock exam](https://nuniversity.pages.dev/en/quizzes/) shows you where you stand in 10 minutes.
+> 🧑‍💻 *Starting from zero?* → the [intro to programming roadmap](https://nuniversity.pages.dev/en/roadmaps/).
+> 🗣️ *Practicing a language?* → the [vocabulary players](https://nuniversity.pages.dev/en/languages/).
+> 🇧🇷🇪🇸 *Prefers Portuguese or Spanish?* → switch languages in the header, everywhere.
 
-- 🔐 **Content-Security-Policy on every page** — injected at build time and verified by a dedicated gate; `'unsafe-eval'` was deliberately removed from the policy.
-- 🕵️ **No accounts, no analytics, no trackers** — mastery scores live in `localStorage`, on your machine.
-- 🔗 **Pinned supply chain** — `npm audit signatures`, checksum-verified security scanners, Dependabot, and a hard pre-commit gate (Bandit, ESLint security rules, gitleaks).
-- ♿ **Accessibility-first** — audio descriptions authored for every visual; motion-safe animations; print-friendly lessons.
-- 💸 **Zero-infrastructure costs** — pure static output on a CDN; donations fund people, not servers.
-
-## 🚀 Try it now (no signup)
-
-| Language | Start | |
-|---|---|---|
-| 🇺🇸 English | [nuniversity.pages.dev/en](https://nuniversity.pages.dev/en) | |
-| 🇧🇷 Português | [nuniversity.pages.dev/pt](https://nuniversity.pages.dev/pt) | |
-| 🇪🇸 Español | [nuniversity.pages.dev/es](https://nuniversity.pages.dev/es) | |
-
-One-click deep dives: an [833-question SnowPro mock exam](https://nuniversity.pages.dev/en/quizzes/snowpro-core-cof-c03/) · the [ReDoS-isolated Regex Tester](https://nuniversity.pages.dev/en/tools/regex-tester/) · an [English→Portuguese vocabulary player](https://nuniversity.pages.dev/en/languages/en-pt/).
-
-## 💖 Why it's free — and why we can keep it free
+## 🤲 Our promises to every learner
 
 > [!IMPORTANT]
-> **No ads. No paywalls. No tracking. No accounts.** Learning stays the product.
+> ### Free. Forever. For everyone.
+> - 💸 **No ads. No paywalls. No premium tier.** Learning is the product.
+> - 🔒 **No account needed.** Open the site and start; your progress stays on your own device.
+> - 🌍 **Fully trilingual** — interface *and* content, not just menus.
+> - ♿ **Accessible by design** — spoken descriptions for every visual, print-friendly lessons, calm motion.
+> - ⚡ **Light as a page, not an app** — nothing to install; it just opens and works.
 
-Donations keep it that way. If the platform saved you study time:
+If the platform saved you study time, [a donation](https://nuniversity.pages.dev/en/donate/) keeps it free for the next learner — PIX accepted (R$ 5 · 10 · 25 · 50 or your own amount).
 
-- 💸 **PIX (Brazil)**, instant keys: **R$ 5 · R$ 10 · R$ 25 · R$ 50** or your own amount → [donate page](https://nuniversity.pages.dev/en/donate/) (Brazilian QR / copy-and-paste PIX key = `nuniversity.npo@gmail.com`; PayID in AU also supported).
-- Every cent goes to content, translations and accessibility work — there is no server bill to pay thanks to the static architecture.
+## 🧪 What's coming — learn by building
 
-## 🧪 Coming soon — open-source labs
+We are preparing **open lab projects**: small, self-contained projects you can download, remix and build together with the community — the same material our course tracks teach, made to be yours.
 
-> [!NOTE]
-> We are opening up reusable **lab projects** — small, self-contained “learn by building” repositories alongside the platform.
-
-| Lab | What you'll build together with us | Planned license |
-|---|---|---|
-| 🤖 **Agentic AI lab** | A production-style LangGraph agent: tools, memory, evaluation, observability — the code behind the platform's agent course track | MIT |
-| 🦀 **Rust lab** | Learn Rust through hands-on experiments instead of slides | MIT / Apache‑2.0 |
-| 🗃️ **SQL lab** | A query-along data set + graduated challenges from first `SELECT` to window functions | MIT |
-
-⭐ Watch/star this organization — labs will appear here first, and every lab will be under a permissive license so you can fork, remix and teach with them.
-
-## 📄 License & reuse
-
-- The **platform source** (site, content, tools) is released under a *source-available, non-commercial educational license*: learn with it, remix it privately, quote it in class with attribution — just don't sell it or rebrand it. [Full terms](https://nuniversity.pages.dev/en/terms/).
-- The **upcoming lab projects** (section above) will be genuinely open source under MIT / Apache‑2.0.
-- For anything outside those bounds (mirroring, commercial training, bundling), just **email us** — we often simply say yes.
-
-## 🤝 Connect
-
-- 📫 **Contact / partnerships**: `nuniversity.npo@gmail.com` — [or use the contact form](https://nuniversity.pages.dev/en/contact/) · [partners program](https://nuniversity.pages.dev/en/partners/)
-- ▶️ [YouTube — tutorials and course materials](https://www.youtube.com/@nuniversity) · [LinkedIn](https://www.linkedin.com/company/nuniversity/) · [Instagram](https://www.instagram.com/nuniversityedu/)
-- 🐛 Found a bug or a broken lesson link? Email us — it's a static site, so every fix ships within a day.
-
----
+🤖 agentic AI lab · 🦀 Rust lab · 🗃️ SQL lab — *watch this org*:
 
 <div align="center">
-  <sub>🌍 Built with Next.js · hosted on Cloudflare's free tier · made possible by study-time donations.</sub><br/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fnuniversity&query=public_repos&label=public%20projects%20and%20growing&color=8b5cf6" alt="public repositories — live count">
+</div>
+
+## 📄 Use & share
+
+Everything here is free for learning and classroom use. Sharing quotes with attribution is welcome; selling or rebranding the content is not (full [terms of use](https://nuniversity.pages.dev/en/terms/)). The upcoming labs will be released under permissive open-source licenses. For anything unusual, [just ask](mailto:nuniversity.npo@gmail.com) — we often say yes.
+
+## 🤝 Connect with us
+
+| | | |
+|:--:|:--|--:|
+| 📫 [Email us](mailto:nuniversity.npo@gmail.com) | 🤝 [Partner program](https://nuniversity.pages.dev/en/partners/) | 💗 [Donate](https://nuniversity.pages.dev/en/donate/) |
+| 📞 [Contact form](https://nuniversity.pages.dev/en/contact/) | ▶️ [YouTube](https://www.youtube.com/@nuniversity) | 🔗 [LinkedIn](https://www.linkedin.com/company/nuniversity/) · 📸 [Instagram](https://www.instagram.com/nuniversityedu/) |
+
+<div align="center">
+  <sub>Found a wrong answer or a broken link? <a href="mailto:nuniversity.npo@gmail.com">Report it</a> — it gets fixed within a day.</sub><br/>
   <sub>© 2026 Nuniversity — <em>Learn, Code, and Grow</em></sub>
 </div>
